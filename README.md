@@ -6,6 +6,7 @@ My LeetCode solutions in C++ with automatic GitHub synchronization.
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/yogesh-selvam/leetcode-solutions/tree/master/0231-power-of-two) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/yogesh-selvam/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/yogesh-selvam/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/yogesh-selvam/leetcode-solutions/tree/master/2235-add-two-integers) |
@@ -15,4 +16,12 @@ My LeetCode solutions in C++ with automatic GitHub synchronization.
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/yogesh-selvam/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/yogesh-selvam/leetcode-solutions/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/yogesh-selvam/leetcode-solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
